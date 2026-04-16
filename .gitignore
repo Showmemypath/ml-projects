@@ -1,1 +1,7 @@
 src/nyc_311_sample.csv
+
+# Ignore everything inside that folder
+Projects/Project descriptions/*
+
+# But allow PDFs inside it
+!Projects/Project descriptions/*.pdf
