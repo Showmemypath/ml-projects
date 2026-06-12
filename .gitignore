@@ -5,3 +5,6 @@ Projects/Project descriptions/*
 
 # But allow PDFs inside it
 !Projects/Project descriptions/*.pdf
+
+# Analysis reports folder
+analysis-reports/
